@@ -1,3 +1,3 @@
 # GoodShyt Operations
 
-Workflow orchestration and service coordination for real-world environments.
+Systems That Keep Things Moving.
